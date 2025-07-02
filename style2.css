@@ -1,0 +1,19 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: linear-gradient(to right, #1b3403, #6aa4ac); }
+
+h1, h2 { text-align: center; color: #0e1405; }
+
+.section { margin: 40px auto; padding: 20px; background: #95be6f; border-radius: 12px; max-width: 1200px; box-shadow: 0 0 12px rgba(0, 0, 0, 0.1); }
+
+.grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+
+.item { background: #d5d982; padding: 15px; width: 250px; border-radius: 10px; text-align: center; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); }
+
+.item img { width: 100%; border-radius: 6px; margin-bottom: 10px; }
+
+.upload-section { margin-top: 30px; padding-top: 20px; border-top: 2px dashed #ccc; }
+
+.upload-section input, .upload-section textarea { display: block; width: 100%; margin: 10px 0; padding: 10px; border: 1px solid #ccc; border-radius: 6px; font-size: 1rem; }
+
+.upload-section button { padding: 10px 20px; background-color: #8e24aa; color: white; font-size: 1rem; border: none; border-radius: 6px; cursor: pointer; }
+
+.upload-section button:hover { background-color: #6a1b9a; }
