@@ -14,7 +14,7 @@ A simple mini website that allows users to sign up or log in, and then choose be
    
   ##  How to Use
 
-1. Open `homepage.html` in your browser.
+1. Open homepage in your browser through the link.
 2. Choose to **Sign Up** if you're a new user, or **Login** if you already have an account.
 3. If you forget your password, click **"Forgot Password?"** to simulate a reset.
 4. After logging in, choose between:
